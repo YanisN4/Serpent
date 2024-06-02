@@ -15,7 +15,7 @@ Depuis le fichier python (.py), il faut d’abord installer la librairie SLY pui
 <br />python3 serpent_interpreter.py
 
 Depuis l’exécutable :
-./serpent_interpreter
+<br />./serpent_interpreter
 
 
 
