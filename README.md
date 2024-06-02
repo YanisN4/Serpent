@@ -11,8 +11,8 @@ L’exécutable peut être lancé sur Linux.
 Pour exécuter le programme : 
 
 Depuis le fichier python (.py), il faut d’abord installer la librairie SLY puis exécuter le fichier .py : 
-\n python3 -m pip install sly
-\n python3 serpent_interpreter.py
+<br />python3 -m pip install sly
+<br />python3 serpent_interpreter.py
 
 Depuis l’exécutable :
 ./serpent_interpreter
